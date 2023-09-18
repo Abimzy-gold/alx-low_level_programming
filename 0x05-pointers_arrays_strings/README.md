@@ -34,3 +34,4 @@ Return value: the pointer to dest
 TASK 11 - Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
 Write a function that convert a string to an integer.
 Prototype: int _atoi(char *s);
+TASK 11- Create a program that generates random valid passwords for the program 101-crackme.
