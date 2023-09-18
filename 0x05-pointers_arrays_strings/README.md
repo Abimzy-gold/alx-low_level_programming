@@ -31,3 +31,6 @@ Prototype: void print_array(int *a, int n);
 TASK 9- Write a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest
 Prototype: char *_strcpy(char *dest, char *src);
 Return value: the pointer to dest
+TASK 11 - Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
+Write a function that convert a string to an integer.
+Prototype: int _atoi(char *s);
